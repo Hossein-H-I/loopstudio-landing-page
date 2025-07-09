@@ -95,7 +95,7 @@ header{
   min-width: 100%;
   min-height: 90vh;
   padding: 3rem;
-  background-image: url('./images/mobile/image-hero.jpg');
+  background-image: url('/images/mobile/image-hero.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
