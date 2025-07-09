@@ -20,7 +20,7 @@ gsap.fromTo(
     scrollTrigger: {
         trigger: element,
         start: "top 90%",
-        end: "top 60%",
+        end: "top 70%",
         toggleActions: "play reverse play reverse",
     }
   }
