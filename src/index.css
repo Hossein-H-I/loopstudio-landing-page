@@ -16,11 +16,11 @@
 
 @font-face {
   font-family: Alata;
-  src: url('./fonts/Alata/Alata-Regular.ttf');
+  src: url('/fonts/Alata/Alata-Regular.ttf');
 }
 @font-face {
   font-family: JosefinSans;
-  src: url('./fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf');
+  src: url('/fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf');
 }
 
 *{
@@ -368,7 +368,7 @@ footer ul{
     height: 200px;
     padding: 4rem 8rem;
     position: relative;
-    background-image: url('./images/desktop/image-hero.jpg');
+    background-image: url('/images/desktop/image-hero.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
