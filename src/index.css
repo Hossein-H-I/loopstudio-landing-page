@@ -87,11 +87,6 @@ body {
   color: #000;
 }
 
-body.dark-mode{
-  background-color: #242424;
-}
-
-
 #root{
   min-width: 100%;
 }
