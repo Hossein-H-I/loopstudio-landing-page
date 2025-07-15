@@ -85,10 +85,12 @@ body {
   overflow-x: hidden;
   background-color: #fff;
   color: #000;
+  overflow-x: hidden;
 }
 
 #root{
   min-width: 100%;
+  overflow-x: hidden;
 }
 
 header{
