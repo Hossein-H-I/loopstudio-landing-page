@@ -191,7 +191,7 @@ nav .ham-menu-btn{
   grid-column: 1/-1;
   position: fixed;
   top: 0;
-  right: -100%;
+  right: 0;
   background-color: #000;
   align-items: center;
   z-index: 99;
@@ -201,7 +201,6 @@ nav .ham-menu-btn{
 
 .mobile-menu-box.active{
   display: flex;
-  right: 0;
   opacity: 1;
 }
 
