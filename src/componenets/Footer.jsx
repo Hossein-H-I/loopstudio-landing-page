@@ -19,16 +19,16 @@ export default function Footer(){
                 <div className="footer-icon-box">
                     <ul>
                         <li>
-                            <a href="#"><img src="./images/icon-facebook.svg" alt="facebook" /></a>
+                            <a href="#" aria-label="Facebook link"><img src="./images/icon-facebook.svg" alt="facebook" /></a>
                         </li>
                         <li>
-                            <a href="#"><img src="./images/icon-twitter.svg" alt="twitter" /></a>
+                            <a href="#" aria-label="Twitter link"><img src="./images/icon-twitter.svg" alt="twitter" /></a>
                         </li>
                         <li>
-                            <a href="#"><img src="./images/icon-pinterest.svg" alt="pinterest" /></a>
+                            <a href="#" aria-label="pinterest link"><img src="./images/icon-pinterest.svg" alt="pinterest" /></a>
                         </li>
                         <li>
-                            <a href="#"><img src="./images/icon-instagram.svg" alt="instagram" /></a>
+                            <a href="#" aria-label="instagram link"><img src="./images/icon-instagram.svg" alt="instagram" /></a>
                         </li>
                     </ul>
                 </div>
